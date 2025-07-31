@@ -2,6 +2,9 @@
 
 This project implements a **fine-grained image classification** system to identify car models from images. The goal is to achieve over 65% accuracy, and we reached **71.94%** test accuracy using a **Bilinear CNN** architecture with pretrained models. All code is implemented in **PyTorch**.
 
+## 📄 Data files
+Training and test files can be dowloaded from https://www.dropbox.com/s/sakfqp6o8pbgasm/data.tgz and placed in /data directory.
+
 ## 📁 Project Structure
 
 ```bash
